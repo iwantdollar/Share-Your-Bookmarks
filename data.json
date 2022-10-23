@@ -167,6 +167,27 @@
     ]
   },
   {
+    "name": "Mohamed Khaled Yousef",
+    "username": "this_mkhy",
+    "bio": "Frontend Developer",
+
+    "links": [
+      "https://twitter.com/_alexbrogan/status/1583809187133280257",
+      "https://twitter.com/jomaoppa/status/1555207051617488898",
+      "https://twitter.com/SystemSunday/status/1563865370003374080?s=20&t=GI7CFU4gmYAw8giOsKYDIw",
+      "https://twitter.com/kamranahmedse/status/1501116746811547654",
+      "https://twitter.com/_cichocinski/status/1581576867991015424"
+    ],
+    "social": [
+      {
+        "twitter": "https://twitter.com/this_mkhy"
+      },
+      {
+        "linkedin": "https://www.linkedin.com/in/mohamed-khaled-yousef-421081a5/"
+      }
+    ]
+  },
+  {
     "name": "Mahendra Chaudhari",
     "username": "mahendra4312",
     "bio": "Web Developer & ML engineer",
